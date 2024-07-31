@@ -1,4 +1,4 @@
-# Data Professional Survey Breakdown
+# Profession Survey Breakdown
 
 
 ## Introduction: 
@@ -33,4 +33,7 @@ To understand the data professional landscape, I created a comprehensive dashboa
 4. Column chart that illustrates the distribution of votes for programming languages among different job titles
 5. Donut chart to categorize the difficulties faced by aspiring data professionals
 6. Gauges to measure happiness levels in current positions. One gauge evaluates work/life balance, while the other assesses satisfaction with salary
- 
+
+
+<img width="509" alt="Snapshot" src="https://github.com/user-attachments/assets/edb0b246-8f36-403e-9f35-4c58502d829e">
+
